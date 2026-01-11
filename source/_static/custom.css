@@ -1,0 +1,13 @@
+.icons .footer-img img {
+  width: auto;
+  max-width: 120px;
+  height: auto;
+  margin-left: 20;
+}
+
+@media (max-width: 600px) {
+  .icons .footer-img img {
+    max-width: 80px;
+  }
+}
+
