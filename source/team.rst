@@ -14,23 +14,23 @@ of the programme:
 Team @ Bosch BrgP
 -----------------
 
-  - Alexandre Correia
-  - Marcelo Alves
-  - Filipe Peixoto 
+- Alexandre Correia
+- Marcelo Alves
+- Filipe Peixoto 
 
 Team @ University of Minho
 --------------------------
 
-  - António Costa
-  - Maria João Nicolau 
-  - Alexandre Santos 
-  - Bruno Dias
-  - Joaquim Macedo
-  - Óscar Gama
-  - Bruno Ribeiro
-  - João Santos
-  - Samuel Arantes
-  - Samuel Gonçalves
+- António Costa
+- Maria João Nicolau 
+- Alexandre Santos 
+- Bruno Dias
+- Joaquim Macedo
+- Óscar Gama
+- Bruno Ribeiro
+- João Santos
+- Samuel Arantes
+- Samuel Gonçalves
 
 .. toctree::
    :maxdepth: 2

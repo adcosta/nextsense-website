@@ -4,6 +4,9 @@
 neXtSense - P13 Project
 =======================
 
+V2X Communications and Embedded Computing for VRU Safety
+--------------------------------------------------------
+
 The `neXt Sense`_  programme aims to develop a new generation of automotive sensor
 systems through research into new concepts and solutions for the development of
 higher-quality products in the field of autonomous driving.
@@ -28,7 +31,7 @@ the needs of V2X applications.
 .. _neXt Sense: https://www.bosch.pt/a-nossa-empresa/bosch-em-portugal/projetos-de-inovacao-e-id-t/nextsense.html
 
 Contents
-========
+--------
 
 .. toctree::
    :maxdepth: 2
