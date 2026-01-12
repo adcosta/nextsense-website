@@ -120,7 +120,6 @@ Submitted
 
 .. [P17] Filipe Peixoto et al. “SUMO, CARLA & OMNeT++: Co-Simulation Framework
    For Collective Perception”. In: Draft Paper Submitted. Nov 2025.
-   2026 - SACmlc. Nov. 2025.
 
 .. toctree::
    :maxdepth: 2
